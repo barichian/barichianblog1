@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: https://github.com/barichian/barichianblog1
+  repo: https://github.com/barichian/barichianblog1.git
 
 media_folder: static/assets
 public_folder: /assets
